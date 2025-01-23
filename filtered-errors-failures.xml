@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="3424" assertions="10401" errors="1" warnings="0" failures="1" skipped="5" time="109.605269">
+    <testsuite name="Project Test Suite" tests="3304" assertions="10151" errors="0" warnings="0" failures="1" skipped="4" time="85.942492">
+      <testsuite name="Mautic\InstallBundle\Tests\Functional\InstallWorkflowTest" file="/var/www/html/app/bundles/InstallBundle/Tests/Functional/InstallWorkflowTest.php" tests="2" assertions="7" errors="0" warnings="0" failures="1" skipped="0" time="1.520296"/>
+    </testsuite>
+    <testsuite name="Middleware tests" tests="10" assertions="9" errors="1" warnings="0" failures="0" skipped="0" time="0.216649">
+      <testsuite name="Mautic\Middleware\Tests\Dev\IpRestrictMiddlewareTest" file="/var/www/html/app/middlewares/Tests/Dev/IpRestrictMiddlewareTest.php" tests="3" assertions="2" errors="1" warnings="0" failures="0" skipped="0" time="0.001212"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
